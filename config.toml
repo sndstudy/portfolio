@@ -25,7 +25,7 @@ publishDir = "docs"
 [params]
   breadcrumb = true
   accentColor = "#FD3519"
-  mainSections = ['portfolio'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
+  mainSections = [] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
 
 [params.notFound]
   gopher = "/images/gopher.png" # checkout https://gopherize.me/
@@ -40,7 +40,7 @@ publishDir = "docs"
 
 # sidebarの画像設定
 [params.sidebar]
-  backgroundImage = '' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
+  backgroundImage = './images/hikarinonagare.jpg' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
   logo = "./images/cat.jpg" # - default "/images/edna-west.jpg"
 
@@ -59,47 +59,61 @@ publishDir = "docs"
 
 [menu]
 
+# [[menu.main]]
+#   identifier = "about"
+#   name = "About"
+#   title = "About section"
+#   url = "/about/"
+#   weight = -120
+
 [[menu.main]]
-  identifier = "about"
-  name = "About"
-  title = "About section"
-  url = "/about/"
+  identifier = "profile"
+  name = "Profile"
+  title = "Profile"
+  url = "/profile/"
   weight = -120
 
 [[menu.main]]
-  identifier = "portfolio"
-  name = "Portfolio"
-  title = "Portfolio"
-  url = "/portfolio/"
+  identifier = "product"
+  name = "Product"
+  title = "Product"
+  url = "/product/"
   weight = -110
 
+# [[menu.main]]
+#   identifier = "blog"
+#   name = "Post"
+#   title = "Blog section"
+#   url = "/post/"
+#   weight = -100
+
 [[menu.main]]
-  identifier = "blog"
-  name = "Post"
-  title = "Blog section"
-  url = "/post/"
-  weight = -100
+  identifier = "careers"
+  name = "Careers"
+  title = "Careers"
+  url = "/careers/"
+  weight = -90
 
 [[menu.main]]
   identifier = "skills"
   name = "Skills"
   title = "Skills"
   url = "/skills/"
-  weight = -90
+  weight = -80
 
 [[menu.main]]
   identifier = "qualifications"
   name = "Qualifications"
   title = "Qualifications"
   url = "/qualifications/"
-  weight = -80
+  weight = -70
 
 [[menu.main]]
   identifier = "qiita"
   name = "Qiita"
   title = "Qiita"
   url = "https://qiita.com/sndstudy"
-  weight = -70
+  weight = -60
 
 [sitemap]
   changefreq = "monthly"

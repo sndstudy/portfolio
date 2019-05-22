@@ -4,10 +4,26 @@ description: Welcome to this sample project
 images: ["/images/sample.jpg"]
 ---
 
-Hey,
+[Profile](./profile)
 
-I'm Edna West, a Web Developer and Entrepreneur.
+プロフィールを掲載しています
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus error cumque quisquam necessitatibus libero dolore porro, quo at molestiae modi voluptatibus iusto alias corporis. Accusamus, debitis, atque. Maiores, distinctio, neque.
+[Product](./product)
 
-[Get to know me better](/about "Get to know me better")
+趣味で作成したものを掲載しています
+
+[Careers](./careers)
+
+職務経歴を掲載しています
+
+[Skills](./skills)
+
+技術スキルを掲載しています
+
+[Qualifications](./qualifications)
+
+取得している資格を掲載しています
+
+[Qiita](https://qiita.com/sndstudy)
+
+Qiitaのページに遷移します

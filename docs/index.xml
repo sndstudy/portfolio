@@ -97,6 +97,55 @@ Lorem ipsum dolor sit amet, 😄 consectetur adipisicing elit. Voluptates aut, t
     </item>
     
     <item>
+      <title>Careers</title>
+      <link>https://sndstudy.github.io/portfolio/careers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sndstudy.github.io/portfolio/careers/</guid>
+      <description>1.Sier 在籍期間:2015年4月～2019年4月
+新人研修  開発期間
+ 2015年4月～2015年6月  業務内容
+ グループ開発研修 TwitterのようなWebアプリケーションを開発 メンバーは6名 サーバサイド、クライアントサイドの開発 議事録の作成や設計書のレビューを担当  言語
+ Java HTML JavaScript CSS  DB
+ PostgreSQL   技術研修  開発期間
+ 2015年7月～2015年9月  業務内容
+ 技術特化の部署に配属予定のため技術特化の研修を受講 C言語でチャットプログラムを開発 Java/Spring Frameworkを用いた掲示板Webアプリケーションを開発  言語
+ C Java HTML JavaScript CSS  DB
+ PostgreSQL  その他
+ Spring Framework jQuery   社内システム更改  開発期間
+ 2015年10月～2016年3月  業務内容
+ Accessで動作していた社内システムをWebシステムに更改 メンバーは15名 ユーザ向け画面モックの作成 詳細設計書の作成 サーバサイド、クライアントサイドの開発 単体テストの作成・実施  言語</description>
+    </item>
+    
+    <item>
+      <title>Product</title>
+      <link>https://sndstudy.github.io/portfolio/product/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sndstudy.github.io/portfolio/product/</guid>
+      <description>欅坂 メンバーサイリウムカラー一覧
+欅坂46のメンバーサイリウムカラーを確認するためだけに作成。
+フロントエンドはAngularとAngular Materialで作成。
+AWSのサービスの一つであるS3の静的ホスティング機能を使用しています。
+技術情報収集サイト ※作成中
+QiitaAPIやHackerNewsAPIから情報を取得して表示するサイト。
+&amp;lt;フロントエンド&amp;gt;
+ Vue.js TypeScript Now (https://zeit.co/)  &amp;lt;サーバサイド&amp;gt;
+ Node.js Express TypeScript Heroku  </description>
+    </item>
+    
+    <item>
+      <title>Profile</title>
+      <link>https://sndstudy.github.io/portfolio/profile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sndstudy.github.io/portfolio/profile/</guid>
+      <description>  名前
+ 真田 祥平  好きな言語
+ Java JavaScript(最近はTypeScriptも触ってます)   得意とする経験・分野・スキル  Java/JavaEEを使用したWebアプリケーション開発(サーバサイド) JavaScriptを使用したWebアプリケーション開発(クライアントサイド) アジャイル(スクラム)開発の経験 技術調査(調査結果をもとに資料化・手順書の作成など)  </description>
+    </item>
+    
+    <item>
       <title>Qualifications</title>
       <link>https://sndstudy.github.io/portfolio/qualifications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

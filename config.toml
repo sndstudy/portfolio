@@ -1,0 +1,118 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Shohei Sanada's Portfolio"
+theme = "personal-web"
+copyright="© Edna West"
+googleAnalytics = ""
+enableEmoji=true
+enableRobotsTXT=true
+pygmentsUseClasses=true
+pygmentsCodeFences=true
+publishDir = "docs"
+
+# 自己紹介
+[params.intro]
+  main = "Shohei Sanada's Portfolio"
+  sub = " "
+
+[taxonomies]
+  design = "designs"
+  tech = "techs"
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[params]
+  breadcrumb = true
+  accentColor = "#FD3519"
+  mainSections = ['portfolio'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
+
+[params.notFound]
+  gopher = "/images/gopher.png" # checkout https://gopherize.me/
+  h1 = 'Bummer!'
+  p = "It seems that this page doesn't exist."
+
+[params.sections]
+  # Define how your sections will be called
+  # when automatically pulled. For instance in the 404 page
+  post = "article"
+  portfolio = "project"
+
+# sidebarの画像設定
+[params.sidebar]
+  backgroundImage = '' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
+  gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
+  logo = "/images/cat.jpg" # - default "/images/edna-west.jpg"
+
+[params.assets]
+  favicon = ""
+  customCSS = ""
+
+[params.social]
+  github = "https://github.com/sndstudy"
+  twitter = "https://twitter.com/sndstudy_tw"
+
+[params.contact]
+  email = "sanada2054tech@gmail.com"
+  text= "" # text of the contact link in the sidebar. If email params.contact.email is defined
+
+
+[menu]
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  title = "About section"
+  url = "/about/"
+  weight = -120
+
+[[menu.main]]
+  identifier = "portfolio"
+  name = "Portfolio"
+  title = "Portfolio"
+  url = "/portfolio/"
+  weight = -110
+
+[[menu.main]]
+  identifier = "blog"
+  name = "Post"
+  title = "Blog section"
+  url = "/post/"
+  weight = -100
+
+[[menu.main]]
+  identifier = "skills"
+  name = "Skills"
+  title = "Skills"
+  url = "/skills/"
+  weight = -90
+
+[[menu.main]]
+  identifier = "qualifications"
+  name = "Qualifications"
+  title = "Qualifications"
+  url = "/qualifications/"
+  weight = -80
+
+[[menu.main]]
+  identifier = "qiita"
+  name = "Qiita"
+  title = "Qiita"
+  url = "https://qiita.com/sndstudy"
+  weight = -70
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = true
+    respectDoNotTrack = true
+    useSessionStorage = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+    simple = false

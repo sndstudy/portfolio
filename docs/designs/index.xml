@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Designs on Shohei Sanada&#39;s Portfolio</title>
-    <link>/designs/</link>
+    <link>https://sndstudy.github.io/portfolio/designs/</link>
     <description>Recent content in Designs on Shohei Sanada&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Edna West</copyright>
     <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate>
     
-	<atom:link href="/designs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sndstudy.github.io/portfolio/designs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Photoshop</title>
-      <link>/designs/photoshop/</link>
+      <link>https://sndstudy.github.io/portfolio/designs/photoshop/</link>
       <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
       
-      <guid>/designs/photoshop/</guid>
+      <guid>https://sndstudy.github.io/portfolio/designs/photoshop/</guid>
       <description></description>
     </item>
     

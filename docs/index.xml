@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HOME on Shohei Sanada&#39;s Portfolio</title>
-    <link>/</link>
+    <link>https://sndstudy.github.io/portfolio/</link>
     <description>Recent content in HOME on Shohei Sanada&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Edna West</copyright>
     <lastBuildDate>Fri, 03 May 2019 09:37:55 +0200</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sndstudy.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Getting started</title>
-      <link>/post/getting-started/</link>
+      <link>https://sndstudy.github.io/portfolio/post/getting-started/</link>
       <pubDate>Fri, 03 May 2019 09:37:55 +0200</pubDate>
       
-      <guid>/post/getting-started/</guid>
+      <guid>https://sndstudy.github.io/portfolio/post/getting-started/</guid>
       <description>&lt;p&gt;Here are some details to help you getting started with this theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Portfolio Definition</title>
-      <link>/post/portfolio-definition/</link>
+      <link>https://sndstudy.github.io/portfolio/post/portfolio-definition/</link>
       <pubDate>Thu, 02 May 2019 19:49:05 +0200</pubDate>
       
-      <guid>/post/portfolio-definition/</guid>
+      <guid>https://sndstudy.github.io/portfolio/post/portfolio-definition/</guid>
       <description>&lt;p&gt;Here are some details about the portfolio settings.&lt;/p&gt;
 
 &lt;figure&gt;
-    &lt;img src=&#34;/post/images/portfolio-example.png&#34;
+    &lt;img src=&#34;https://sndstudy.github.io/portfolio/post/images/portfolio-example.png&#34;
          alt=&#34;Example of Portfolio page&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;Example of Portfolio page&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -39,38 +39,38 @@
     
     <item>
       <title>Sample project</title>
-      <link>/portfolio/sample-project/</link>
+      <link>https://sndstudy.github.io/portfolio/portfolio/sample-project/</link>
       <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
       
-      <guid>/portfolio/sample-project/</guid>
+      <guid>https://sndstudy.github.io/portfolio/portfolio/sample-project/</guid>
       <description>This would be a description of your sample project. You can add any content you&amp;rsquo;d like.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>Archetypes management</title>
-      <link>/post/archetypes/</link>
+      <link>https://sndstudy.github.io/portfolio/post/archetypes/</link>
       <pubDate>Thu, 02 May 2019 19:25:30 +0200</pubDate>
       
-      <guid>/post/archetypes/</guid>
+      <guid>https://sndstudy.github.io/portfolio/post/archetypes/</guid>
       <description>&lt;p&gt;The archetypes are defined in the &lt;code&gt;archetypes&lt;/code&gt; folder, for both post and portfolio.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Shortcodes</title>
-      <link>/post/shortcodes/</link>
+      <link>https://sndstudy.github.io/portfolio/post/shortcodes/</link>
       <pubDate>Mon, 29 Apr 2019 16:18:12 +0100</pubDate>
       
-      <guid>/post/shortcodes/</guid>
+      <guid>https://sndstudy.github.io/portfolio/post/shortcodes/</guid>
       <description>&lt;p&gt;Introduction of the shortcodes defined in the personal-web theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Config File</title>
-      <link>/post/config-file/</link>
+      <link>https://sndstudy.github.io/portfolio/post/config-file/</link>
       <pubDate>Sat, 20 Apr 2019 16:18:12 +0100</pubDate>
       
-      <guid>/post/config-file/</guid>
+      <guid>https://sndstudy.github.io/portfolio/post/config-file/</guid>
       <description>&lt;p&gt;Here is the basic config file used for personal-web.&lt;/p&gt;
 
 &lt;p&gt;You can use it as a base for your website.&lt;/p&gt;</description>
@@ -78,39 +78,39 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
     
     <item>
       <title>Open Graph image</title>
-      <link>/post/define-specific-og-image/</link>
+      <link>https://sndstudy.github.io/portfolio/post/define-specific-og-image/</link>
       <pubDate>Sat, 20 Apr 2019 11:14:59 +0200</pubDate>
       
-      <guid>/post/define-specific-og-image/</guid>
+      <guid>https://sndstudy.github.io/portfolio/post/define-specific-og-image/</guid>
       <description>Within any page, you can add in the FrontMatter a images array that will be used to define a specific Open Graph image.
 For example, see content/_index.md page:</description>
     </item>
     
     <item>
       <title>ABOUT</title>
-      <link>/about/</link>
+      <link>https://sndstudy.github.io/portfolio/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://sndstudy.github.io/portfolio/about/</guid>
       <description>This is my about page. 👋
 Lorem ipsum dolor sit amet, 😄 consectetur adipisicing elit. Voluptates aut, tenetur distinctio voluptatibus ab. Nihil id dignissimos unde, tenetur iusto facilis suscipit corporis, ipsam necessitatibus, eaque iste deleniti consequuntur reprehenderit? 🌍</description>
     </item>
     
     <item>
       <title>Qualifications</title>
-      <link>/qualifications/</link>
+      <link>https://sndstudy.github.io/portfolio/qualifications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/qualifications/</guid>
+      <guid>https://sndstudy.github.io/portfolio/qualifications/</guid>
       <description>         2011年11月 基本情報技術者   2012年12月 応用情報技術者   2015年12月 情報セキュリティスペシャリスト   2016年6月 データベーススペシャリスト   2016年10月 Oracle Certified Java Programmer, Silver SE 8   2016年11月 Oracle MASTER Bronze Oracle Database 11g   2017年2月 AWS 認定デベロッパー アソシエイト   2017年7月 AWS 認定ソリューションアーキテクト アソシエイト   2017年9月 Oracle Certified Java Programmer, Gold SE 8   2017年12月 Oracle Certified Expert, Java EE 6 Web Component Developer    </description>
     </item>
     
     <item>
       <title>Skills</title>
-      <link>/skills/</link>
+      <link>https://sndstudy.github.io/portfolio/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/skills/</guid>
+      <guid>https://sndstudy.github.io/portfolio/skills/</guid>
       <description>Linux 1年 手順書をもとにインストールが可能   Windows7 3年 開発が可能   VB6 3ヵ月 簡単なプログラミングが可能   VBA 3ヵ月 簡単なプログラミングが可能   VB .NET 6ヵ月 簡単なプログラミングが可能   C 3ヵ月 簡単なプログラミングが可能   HTML 1年 タグ打ちが可能   Java 3年 状況に応じて最適なコードが書け、指導が可能   JavaScript 2年 状況に応じて最適なコードが書け、指導が可能   TypeScript 1年 簡単なプログラミングが可能   CSS 1年 簡単なプログラミングが可能   Spring Framework 1年 SprigBoot・SpringMVCの経験あり   Angular 1年 AngularCLIから雛型を作成、開発が可能   JavaEE 1年 Servlet・JSPを使用した開発が可能   MySQL 1年 インストールから簡単なテーブル作成が可能   Oracle 6ヵ月 テーブル作成が可能   SQL Server 6ヵ月 テーブル作成が可能   PostgreSQL 6ヵ月 インストールから簡単なテーブル作成が可能   Git 1年 GUI・CUIから操作が可能   GitLab 1年 ブランチ作成など基本的な操作が可能   Node.</description>
     </item>
     

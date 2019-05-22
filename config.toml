@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://sndstudy.github.io/portfolio/"
 languageCode = "en-us"
 title = "Shohei Sanada's Portfolio"
 theme = "personal-web"

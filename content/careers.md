@@ -234,3 +234,35 @@ description: Welcome to this sample project
   - Jenkins
   - VSCode
 
+## **<u>2.Web系自社開発</u>**
+
+#### <u>社内向けWebViewコンテンツCMS</u>
+
+- 開発期間
+  - 2019年7月～2019年10月
+
+- 業務内容
+  - WebViewに描画するHTMLを作成・管理するシステム
+  - フロントサイドの開発
+  - 開発標準化を推進
+    - コミットメッセージのルール化
+    - 静的解析の導入
+  - CloudFormationを用いたインフラのコード化
+
+- 言語
+  - JavaScript
+  - jQuery
+  - HTML
+  - CSS
+  - Python
+
+- その他
+  - Node.js
+  - Django
+  - AWS
+    - S3
+    - CloudFront
+    - CloudFormation
+    - WAF
+  - GitHub
+  - VSCode

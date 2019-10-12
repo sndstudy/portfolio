@@ -27,7 +27,7 @@ description: Welcome to this sample project
 |GitLab|1年|ブランチ作成など基本的な操作が可能|
 |Node.js|1年|簡易的なHTTPサーバを実装することが可能|
 |Jenkins|6ヵ月|手順書をもとに導入が可能|
-|AWS|6ヵ月|AWS SDKを用いた開発が可能|
+|[AWS](../aws)|6ヵ月|AWS SDKを用いた開発が可能|
 |Visual Studio|6ヵ月|VB.NETを用いたデスクトップアプリの開発で使用|
 |Visual Studio Code|1年|Angularを用いたSPAの開発で使用|
 |Eclipse|3年|Javaの開発で使用|

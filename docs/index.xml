@@ -97,6 +97,15 @@ Lorem ipsum dolor sit amet, 😄 consectetur adipisicing elit. Voluptates aut, t
     </item>
     
     <item>
+      <title>AWS</title>
+      <link>https://sndstudy.github.io/portfolio/aws/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sndstudy.github.io/portfolio/aws/</guid>
+      <description>   経験のあるサービス     EC2   Lambda   S3   RDS   DynamoDB   CloudFormation   Rekognition   IAM   WAF   VPC   CloudFront   API Gateway   CodeCommit    </description>
+    </item>
+    
+    <item>
       <title>Careers</title>
       <link>https://sndstudy.github.io/portfolio/careers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
